@@ -39,7 +39,3 @@
 </html>
 
 
-# BASIC CALCULATOR (ASSIGNMENT SUBMISSION)
-# Takes two numbers and performs +, -, *, /
-# Handles division by zero and invalid operators
-# Submitted by: [Your Name]
