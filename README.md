@@ -39,3 +39,53 @@
 </html>
 
 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Document metadata -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PLP Web Technologies</title>
+</head>
+<body>
+    <!-- Header section with page title -->
+    <header>
+        <h1>Welcome to Web Technologies</h1>
+    </header>
+
+    <!-- Navigation menu -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main content area -->
+    <main>
+        <section>
+            <h2>About Web Technologies</h2>
+            <p>Web technologies refer to the various tools and techniques used in the process of communication between different types of devices over the internet.</p>
+            <p>This includes HTML, CSS, JavaScript, and many other technologies that make the web interactive and dynamic.</p>
+        </section>
+
+        <article>
+            <h3>Why Learn HTML?</h3>
+            <p>HTML is the foundation of all web pages. Without HTML, you wouldn't be able to organize text or add images or videos to your web pages.</p>
+        </article>
+    </main>
+
+    <!-- Footer with contact information -->
+    <footer>
+        <p>Contact us: <a href="mailto:contact@webtech.com">contact@webtech.com</a></p>
+        <p>&copy; 2023 PLP Web Technologies. All rights reserved.</p>
+    </footer>
+</body>
+</html>
