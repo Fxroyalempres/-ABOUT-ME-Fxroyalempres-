@@ -1,4 +1,4 @@
-file:///C:/Users/user/Documents/my-portfolio/-ABOUT-ME-Fxroyalempres-/index.html
+
 <!DOCTYPE html>
 <html lang="en">
 
